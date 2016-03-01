@@ -1,0 +1,34 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  text-align: right;
+
+  border-bottom: 1px lightgrey solid;
+}
+
+li {
+  display: inline-block;
+
+  line-height: 4rem;
+}
+
+main {
+  text-align: center;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 2rem;
+}
+
+.sub-heading {
+  font-weight: normal;
+}
+
+img {
+  width: 80%;
+}
